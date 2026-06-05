@@ -1,0 +1,5 @@
+requests
+gradio
+Pillow
+transformers
+huggingface_hub
