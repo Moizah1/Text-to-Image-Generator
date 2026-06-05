@@ -144,7 +144,3 @@ User Prompt + Sliders
         ▼
   Final image displayed in UI
 ```
-
----
-
-<p align="center">Built with ❤️ using Gradio + Hugging Face + Pillow</p>
